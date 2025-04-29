@@ -35,6 +35,12 @@ const Header = () => {
           Projects
         </a>
         <a
+          href="#experience"
+          className="hover:border-b-2 hover:border-purple-800 cursor-pointer"
+        >
+          Work Experiences
+        </a>
+        <a
           href="#contact"
           className="hover:border-b-2 hover:border-purple-800 cursor-pointer"
         >
@@ -69,7 +75,7 @@ const Header = () => {
             Contact
           </a>
           <a
-            href="https://drive.google.com/file/d/19fcZDeZqPA6_rv6jW3GxZ4ivCnz5ifyu/view?usp=drive_link"
+            href="https://drive.google.com/file/d/18zu75luWFepsq1EqqZ6PuIAAatTPXvmQ/view?usp=drive_link"
             target="_blank"
             className=" md:hidden bg-purple-800 text-white text-lg px-5 text-start py-1 rounded-xl font-semibold hover:opacity-70"
           >
@@ -78,7 +84,7 @@ const Header = () => {
         </nav>
       )}
       <a
-        href="https://drive.google.com/file/d/19fcZDeZqPA6_rv6jW3GxZ4ivCnz5ifyu/view?usp=drive_link"
+        href="https://drive.google.com/file/d/18zu75luWFepsq1EqqZ6PuIAAatTPXvmQ/view?usp=drive_link"
         target="_blank"
         className="hidden md:block bg-purple-800 text-white text-lg px-5 py-1 rounded-xl font-semibold hover:opacity-70"
       >

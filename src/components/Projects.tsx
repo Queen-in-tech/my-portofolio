@@ -28,7 +28,7 @@ const Projects = () => {
   const [selectedProject, setSelectedProject] = useState<number | null>(null);
   const [showDetails, setShowDetails] = useState(false);
   const [isAnimating, setIsAnimating] = useState(false);
-  const [activeCategory, setActiveCategory] = useState<string>("Web App");
+  const [activeCategory, setActiveCategory] = useState<string>("All");
   const [isVisible, setIsVisible] = useState(false);
   const detailsRef = useRef<HTMLDivElement>(null);
   const sectionRef = useRef<HTMLDivElement>(null);

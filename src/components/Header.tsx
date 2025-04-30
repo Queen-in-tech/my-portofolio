@@ -68,18 +68,30 @@ const Header = () => {
              ref={navRef}
              className="absolute right-0 top-20 z-10 flex bg-[#f7f9fb] flex-col p-6 rounded-md md:hidden gap-5 text-semibold text-black text-lg"
            >
-             <a href="#home" className="hover:border-b-2 hover:border-purple-800">Home</a>
-             <a href="#about" className="hover:border-b-2 hover:border-purple-800">About</a>
-             <a href="#project" className="hover:border-b-2 hover:border-purple-800">Projects</a>
-             <a href="#experiences" className="hover:border-b-2 hover:border-purple-800">Work Experience</a>
-             <a href="#contact" className="hover:border-b-2 hover:border-purple-800">Contact</a>
-             <a
-               href="https://drive.google.com/file/d/18zu75luWFepsq1EqqZ6PuIAAatTPXvmQ/view?usp=drive_link"
-               target="_blank"
-               className="bg-purple-800 text-white px-5 py-1 rounded-xl font-semibold hover:opacity-70"
-             >
-               Resume
-             </a>
+             
+          <a onClick={() => setToggleNav(false)} href="#home" className="hover:border-b-2 hover:border-purple-800">
+            Home
+          </a>
+          <a onClick={() => setToggleNav(false)} href="#about" className="hover:border-b-2 hover:border-purple-800">
+            About
+          </a>
+          <a onClick={() => setToggleNav(false)} href="#project" className="hover:border-b-2 hover:border-purple-800">
+            Projects
+          </a>
+          <a onClick={() => setToggleNav(false)} href="#experiences" className="hover:border-b-2 hover:border-purple-800">
+            Work Experience
+          </a>
+          <a onClick={() => setToggleNav(false)} href="#contact" className="hover:border-b-2 hover:border-purple-800">
+            Contact
+          </a>
+          <a
+            onClick={() => setToggleNav(false)}
+            href="https://drive.google.com/file/d/18zu75luWFepsq1EqqZ6PuIAAatTPXvmQ/view?usp=drive_link"
+            target="_blank"
+            className="bg-purple-800 text-white px-5 py-1 rounded-xl font-semibold hover:opacity-70"
+          >
+            Resume
+          </a>
            </nav>
    
       )}

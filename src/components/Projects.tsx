@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import { FiExternalLink, FiChevronRight, FiFilter, FiX, FiChevronLeft } from "react-icons/fi";
+import { FiExternalLink, FiChevronRight, FiX, FiChevronLeft } from "react-icons/fi";
 import { AiFillGithub } from "react-icons/ai";
 
 // Type definitions

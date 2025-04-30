@@ -10,7 +10,7 @@ const Experience = () => {
           <div className="w-16 h-1 bg-purple-700 mt-4 rounded-full"></div>
         </div>
 
-        <div className="space-x-12 flex">
+        <div className="space-y-8 md:space-y-0 md:space-x-12 md:flex">
           
           {/* Lead Software Developer - Centrifuge */}
           <div className="bg-white shadow-md rounded-lg p-6">

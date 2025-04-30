@@ -309,7 +309,7 @@ const Projects = () => {
       className="py-20 lg:py-16 bg-gray-50"
       ref={sectionRef}
     >
-      <div className="container mx-auto px-6">
+      <div className="container md:mx-auto md:px-6">
         {/* Section Header */}
         <div className="flex flex-col items-center mb-12">
           <h2 className="text-sm font-medium text-purple-700 uppercase tracking-wider mb-3">My Work</h2>

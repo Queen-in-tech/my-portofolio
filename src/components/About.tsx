@@ -31,7 +31,7 @@ const About = () => {
     {
       icon: <FiCode />,
       title: "Modern Tech Stack",
-      description: "Proficient in AngularJS, ReactJS, TypeScript, and modern frontend technologies."
+      description: "Proficient in Angular, ReactJS, TypeScript, and modern frontend technologies."
     },
     {
       icon: <FiTarget />,
@@ -91,7 +91,7 @@ const About = () => {
             </p>
 
             <p>
-              I specialize in building scalable, user-focused solutions with React, TypeScript, Firebase, NestJS, AngularJS, and modern tools like TailwindCSS and Ionic.
+              I specialize in building scalable, user-focused solutions with React, TypeScript, Firebase, NestJS, Angular, and modern tools like TailwindCSS and Ionic.
             </p>
 
             <p className="hidden md:block">

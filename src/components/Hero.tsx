@@ -33,7 +33,7 @@ const Hero = () => {
     },
     {
       name: "Angular",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qAb3e9auwnxJ1RmaypTdsieWkl2wb4u3cg&s",
+      image: "https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png",
     },
     {
       name: "TypeScript",

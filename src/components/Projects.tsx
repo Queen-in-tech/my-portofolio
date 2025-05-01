@@ -173,7 +173,7 @@ const Projects = () => {
           "digiGov/Screenshot 2025-04-29 at 00-24-19 Ngo.png",
         "digiGov/Screenshot 2025-04-29 at 00-24-29 Ngo.png"
       ],
-      stacks: "TailwindCSS, AngularJS",
+      stacks: "TailwindCSS, Angular",
       category: "Landing Page",
       live: "https://e-gan.vercel.app/",
       gitHub: "https://github.com/Queen-in-tech/NGO",
@@ -201,7 +201,7 @@ const Projects = () => {
       "jambot/Screenshot 2025-04-29 at 02-02-44 Sable Technology.png",
       "jambot/Screenshot 2025-04-29 at 02-03-02 Sable Technology.png"
       ],
-      stacks: "AngularJS, NestJS, OpenAI API, TailwindCSS",
+      stacks: "Angular, NestJS, OpenAI API, TailwindCSS",
       category: "Web App",
       live: "https://jamb-bot.netlify.app",
       gitHub: "https://github.com/Queen-in-tech/jamb-bot",
